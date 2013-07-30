@@ -1,5 +1,5 @@
-The OpenStreetMap Dedication License
-====================================
+The OpenStreetMap Dedication License ODL
+========================================
 
 *DRAFT*
 
