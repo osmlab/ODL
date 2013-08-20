@@ -1,7 +1,7 @@
 The OpenStreetMap Dedication License ODL
 ========================================
 
-*DRAFT*
+*[DRAFT](https://github.com/osmlab/ODL/blob/master/LICENSE)*
 
 Use this license to open your dataset for contribution to OpenStreetMap without
 modifying any of the existing conditions you publish your data under.
